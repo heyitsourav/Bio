@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SOURAV
 - 👀 I’m interested in Programming, Gaming...
-- 🌱 I’m currently learning languages like C++, Java, Python, MySQL, etc..
+- 🌱 I’m currently learning languages like Python, MongoDB, HTML, CSS, MySQL, etc..
 - 😄 Pronouns: English, Hindi, Bengali
 - ⚡ Fun fact: I'm an Introvert
 - Contact: ig link given in my profile!!
